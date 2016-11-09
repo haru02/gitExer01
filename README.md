@@ -9,6 +9,6 @@ this is paragraph.
 
 - 2016.11.09 second jaehong Capzzang!!
 
-- Hello : Adele
+- Hello : 아델이 아니고 동진이지롱~
 
 - 동진아 고치지마라

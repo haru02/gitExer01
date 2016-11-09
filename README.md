@@ -71,3 +71,4 @@ At least I can say that I’ve tried
 쳇
 감히 니가?!
 
+연습해보자궁

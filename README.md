@@ -67,5 +67,4 @@ To tell you I’m sorry for everything that I’ve done
 But when I call you never seem to be home
 Hello from the outside
 At least I can say that I’ve tried
-To tell you I’m sorry for breaking your heart
-내가 먼저임 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+감히 니가?!

@@ -67,4 +67,7 @@ To tell you I’m sorry for everything that I’ve done
 But when I call you never seem to be home
 Hello from the outside
 At least I can say that I’ve tried
+
 쳇
+감히 니가?!
+

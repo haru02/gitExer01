@@ -70,4 +70,5 @@ At least I can say that I’ve tried
 
 쳇
 감히 니가?!
-
+제가 먼저 쓰겠습니다.
+안녕!

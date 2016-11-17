@@ -1,4 +1,4 @@
-﻿# gitExer01
+﻿﻿# gitExer01
 
 ## Second title
 
@@ -9,6 +9,5 @@ this is paragraph.
 
 - 2016.11.09 second jaehong Capzzang!!
 
-- Hello : Adele
-
-- 동진아 고치지마라
+## Third title
+- 2016.11.17 second git semmiar

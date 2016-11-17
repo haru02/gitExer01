@@ -16,4 +16,4 @@ this is paragraph.
 
 - 2016.11.17 second git semmiar
 
-- 충돌났당
+- 충돌났당 >> Confirm
